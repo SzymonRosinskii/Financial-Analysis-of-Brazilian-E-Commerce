@@ -32,7 +32,7 @@ This project treats Olist as a stakeholder and asks four concrete business quest
 
 > **Out of scope:** demographic customer profiling (sex, age, earnings) and behavioural/psychographic analysis.
 
-### Deliverables & Timeline
+### Deliverables
 
 | Milestone | Description |
 | --- | --- |
