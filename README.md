@@ -95,6 +95,7 @@ Order counts are highly concentrated in the industrialised south-east. São Paul
 
 <img width="1784" height="1214" alt="orders-by-state-map" src="https://github.com/user-attachments/assets/b62e98a2-14a8-44bd-9a87-55bca0af05fc" />
 
+<br>
 
 On the operational side, delivery is a strength rather than a weakness: **97.3% of orders are delivered successfully**, compared to a ~95% industry average. That's a silent satisfaction driver visible in repeat-purchase behaviour further down the funnel.
 
@@ -102,8 +103,9 @@ On the operational side, delivery is a strength rather than a weakness: **97.3% 
 
 Across the 72 product categories in the dataset, category membership alone explains **~64% of the variation in units sold** (R² = 0.64). But the plot below reveals something more interesting: four categories sit well above the regression line — **Furniture, Watches, Health & Beauty, and Bed & Bath** — meaning they generate more revenue than their unit volume would predict.
 
-<img width="806" height="457" alt="Zrzut ekranu 2026-04-17 224220" src="https://github.com/user-attachments/assets/d6530940-5892-41ff-9619-4e3efc1cbda2" />
+<img width="1784" height="1214" alt="Zrzut ekranu 2026-04-17 224220" src="https://github.com/user-attachments/assets/d6530940-5892-41ff-9619-4e3efc1cbda2" />
 
+<br>
 
 **Volume leader:** garden tools drive the bulk of units sold.
 **Margin leaders:** computers and watches carry the largest per-unit revenue.
