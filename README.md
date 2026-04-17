@@ -4,7 +4,7 @@
 > A data analysis project exploring what drives sales, which products are most profitable, and who the most valuable customers are on the Olist marketplace (2016–2018).
 
 **Author:** Szymon Rosiński
-**Status:** Completed — April 2026
+**Status:** Completed April 2026
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k+ orders
 
 ---
@@ -36,9 +36,9 @@ This project treats Olist as a stakeholder and asks four concrete business quest
 
 | Milestone | Description |
 | --- | --- |
-| Finish Activity 1 — Data extraction | All needed data pulled from the dataset via SQL |
-| Finish Activity 2 — Metrics | Statistical metrics and customer analysis complete |
-| Finish Activity 3 — Presentation | Slide deck finalised against deliverables |
+| Data extraction | All needed data pulled from the dataset via SQL |
+| Metrics | Statistical metrics and customer analysis complete |
+| Presentation | Slide deck finalised against deliverables |
 | Ship final analysis | Buffer for revisions and polish |
 
 ### Limitations
