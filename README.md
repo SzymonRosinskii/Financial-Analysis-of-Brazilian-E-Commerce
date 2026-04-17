@@ -1,11 +1,3 @@
-mkdir images
-mv ~/Downloads/orders-by-state-map.png images/
-mv ~/Downloads/revenue-vs-units-scatter.png images/
-
-git add images/ README.md
-git commit -m "Add chart images and updated README"
-git push
-
 # Financial-Analysis-of-Brazilian-E-Commerce
 # Brazilian E-Commerce — Business Insights
 
