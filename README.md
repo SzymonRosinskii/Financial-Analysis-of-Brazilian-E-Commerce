@@ -75,29 +75,6 @@ The analysis follows the Google Data Analytics framework (*Ask → Prepare → P
 | Presentation | **PowerPoint** with curated speaker notes |
 | Workflow assist | AI-assisted query drafting & slide review |
 
-### Repository Structure
-
-```
-brazilian-ecommerce-insights/
-├── README.md
-├── docs/
-│   ├── Scope_of_Work.docx           # Ask + Prepare phase
-│   └── Methodology.docx             # Narrative methodology write-up
-├── data/
-│   ├── raw/                         # Olist CSVs from Kaggle (not committed)
-│   └── processed/                   # Cleaned data used for Tableau / pandas
-├── sql/
-│   └── bigquery_queries.sql         # Extraction queries (JOINs across Olist tables)
-├── notebooks/
-│   └── analysis.ipynb               # pandas analysis, metrics, regressions
-├── src/
-│   └── helpers.py                   # Reusable utilities for follow-up projects
-├── visualisations/
-│   └── tableau/                     # Tableau workbooks & exports
-└── presentation/
-    └── Brazilian_Ecommerce_Presentation_Final.pptx
-```
-
 ---
 
 ## 3. Executive Summary
