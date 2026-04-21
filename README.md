@@ -6,6 +6,8 @@
 **Author:** Szymon Rosiński
 **Status:** Completed April 2026
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k+ orders
+**Access to the [Scope of Work](docs/Scope_of_Work.pdf)**
+**Access to [Methodology](docs/Methodology.pdf)**
 
 ---
 
