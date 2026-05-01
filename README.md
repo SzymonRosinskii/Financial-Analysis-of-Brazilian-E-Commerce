@@ -3,11 +3,10 @@
 
 > A data analysis project exploring what drives sales, which products are most profitable, and who the most valuable customers are on the Olist marketplace (2016–2018).
 
-**Author:** Szymon Rosiński
-**Status:** Completed April 2026
-**Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k+ orders
-**Access to the [Scope of Work](docs/Scope_of_Work.pdf)**
-**Access to [Methodology](docs/Methodology.pdf)**
+**Author:** Szymon Rosiński         
+**Status:** Completed April 2026         
+**Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k+ orders   
+**Access to: [Scope of Work](docs/Scope_of_Work.pdf), [Methodology](docs/Methodology.pdf), [Presentation of Results](docs/Brazilian_Ecommerce_Presentation_Final.pdf)**
 
 ---
 
